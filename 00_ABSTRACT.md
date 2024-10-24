@@ -1,4 +1,4 @@
-# Persuasive Design | P_03: Hearing
+# Possibilistic Design | P_03: Hearing
 
 By Jocelyn Kiefel, Leslie Liu, and Yousif Alnajjar
 
