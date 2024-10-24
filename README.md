@@ -1,4 +1,4 @@
-# Persuasive Design | P_03: Hearing
+# Possibilistic Design | P_03: Hearing
 
 By Jocelyn Kiefel, Leslie Liu, and Yousif Alnajjar
 
@@ -46,4 +46,7 @@ This repository is the culmination of their efforts to reverse engineer the devi
 | `02_ARTIFACTS\DIAGRAM.png`       | Schematic produced during the reverse engineering process          |
 | `02_ARTIFACTS\POSTER_041725.png` | Poster for a community event on April 4th 2025                     |
 | `02_ARTIFACTS\POSTER_080825.png` | Poster for a community event on August 8th 2025                    |
+<<<<<<< HEAD:README.md
 | `02_ARTIFACTS\MISC\`             | Miscellaneous artifacts                                            |
+=======
+>>>>>>> 2e986c8ec0da43fb38416603cb24aa8283196208:00_ABSTRACT.md
