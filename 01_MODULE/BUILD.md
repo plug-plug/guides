@@ -10,7 +10,7 @@
    - tweezers.
    - vice (optional).
 
-![MIC_MODULE](https://github.com/plug-plug/unmute/02_ARTIFACTS/MISC/MIC_MODULE.png?raw=true)
+![MIC_MODULE](https://github.com/plug-plug/unmute/blob/main/02_ARTIFACTS/MISC/MIC_MODULE.png?raw=true)
 
 ### assembly steps
 1. **remove old microphone**

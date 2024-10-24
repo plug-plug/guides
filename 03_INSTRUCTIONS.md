@@ -1,6 +1,6 @@
 a quick and dirty guide to plugging the plug for maximum resonance and minimum surveillance.
 
-![PLUG_FINAL](https://github.com/plug-plug/unmute/02_ARTIFACTS/MISC/PLUG_FINAL.png?raw=true)
+![PLUG_FINAL](https://github.com/plug-plug/unmute/blob/main/02_ARTIFACTS/MISC/PLUG_FINAL.png?raw=true)
 
 ### the basics
 1. you'll need a small flathead screwdriver or knife, tweezers if avail. 
