@@ -1,6 +1,6 @@
 # Possibilistic Design | P_03: Hearing
 
-By Jocelyn Kiefel, Leslie Liu, and Yousif Alnajjar
+_By Jocelyn Kiefel, Leslie Liu, and Yousif Alnajjar_
 
 This project explores avenues for mass audio surveillance, how they can be orchestrated by higher powers to encourage compliance, and how the people would react to such a severe invasion of privacy.
 
