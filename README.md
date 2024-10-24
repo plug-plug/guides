@@ -14,7 +14,7 @@ Money talks. The government has been looking into various methods of protecting 
 
 Schemes have been put into place to begin distributing "Plug" devices, initially claiming it as a stop-gap solution while a more effective and long-lasting solution is found by big pharma. Many of the same tactics used to successfully push the COVID vaccine have been adapted for this campaign.
 
-![PUBLIC_SERVICE_ANNOUCEMENT](https://github.com/user-attachments/assets/8229c75e-60f9-4520-9b31-53139a7b69d4)
+https://github.com/user-attachments/assets/8229c75e-60f9-4520-9b31-53139a7b69d4
 
 ## Response
 
