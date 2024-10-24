@@ -10,6 +10,8 @@
    - tweezers.
    - vice (optional).
 
+![MIC_MODULE](https://github.com/plug-plug/unmute/02_ARTIFACTS/MISC/MIC_MODULE.png?raw=true)
+
 ### assembly steps
 1. **remove old microphone**
    - carefully open the plug device using a small flathead screwdriver. identify the existing microphone capsule and use a soldering iron to disconnect it from the circuitry.
