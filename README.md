@@ -14,6 +14,8 @@ Money talks. The government has been looking into various methods of protecting 
 
 Schemes have been put into place to begin distributing "Plug" devices, initially claiming it as a stop-gap solution while a more effective and long-lasting solution is found by big pharma. Many of the same tactics used to successfully push the COVID vaccine have been adapted for this campaign.
 
+![PUBLIC_SERVICE_ANNOUCEMENT](https://github.com/plug-plug/unmute/blob/main/02_ARTIFACTS/MISC/PUBLIC_SERVICE_ANNOUNCEMENT.mp4?raw=true)
+
 ## Response
 
 At the start, people see this device as a reasonable safeguard for an important aspect of their health. There are some that voice concerns about the intrusiveness of this product. Something just feels off.
